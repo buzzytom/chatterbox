@@ -1,5 +1,10 @@
 ![Chatterbox Turbo Image](./Chatterbox-Turbo.jpg)
 
+# Quick Run Commands
+
+py -3.12 -m venv venv
+.\venv\Scripts\Activate.ps1
+py narration.py
 
 # Chatterbox TTS
 
